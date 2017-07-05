@@ -25,17 +25,17 @@
     * Model the new system design as a set of subsystems
     * Addres the major design goals
 
-![Image 01](./assets/image01.png)
+![Image 01](./assets/01/image01.png)
 
 ## System Design: Eight Issues
 
-![Image 02](./assets/image02.png)
+![Image 02](./assets/01/image02.png)
 
-![Image 03](./assets/image03.png)
+![Image 03](./assets/01/image03.png)
 
 ### In this course we cover ...
 
-![Image 04](./assets/image04.png)
+![Image 04](./assets/01/image04.png)
 
 ## Design Goals
 
@@ -108,7 +108,7 @@ Cohesion measures the interdependence ot the elements of one subsystems.
 
 Coupling measures the interdependence between different subsystems.
 
-![Image 05](./assets/image05.png)
+![Image 05](./assets/01/image05.png)
 
 ## How to achive high coherence and low coupling
 *(Coherence=Cohesion)*
@@ -141,6 +141,6 @@ Hardware/software mapping address two questions:
 
 ## Two UML Diagram Types
 
-![Image 06](./assets/image06.png)
+![Image 06](./assets/01/image06.png)
 
 
