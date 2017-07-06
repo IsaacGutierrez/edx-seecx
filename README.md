@@ -1,7 +1,10 @@
 # EDX - TUMx: SEECx Software Engineering Essentials
 
+## Disclaimer
 
-Slide to MD files transcription to anyone o need it.
+This is a student project to provide supplementary material and that these are _**not**_ official course artifacts
+
+### Intro
 
 If you wanna help, just clone this repo and start working on the Week video.
 
@@ -14,7 +17,8 @@ If you wanna help, just clone this repo and start working on the Week video.
     
 
 ### Thanks
-To all the teacher on the TUM for providing this compact but great course.
+
+To all the teacher for providing this compact but great course.
     
 ### Links
 
