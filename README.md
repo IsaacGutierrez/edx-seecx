@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This is a student project to provide supplementary material and that these are _**not**_ official course artifacts
+This is a student project to provide supplementary material and that these are _**not**_ official course artifacts.
 
 ### Intro
 
@@ -13,7 +13,7 @@ If you wanna help, just clone this repo and start working on the Week video.
 * Try to mimic the titles and text format (if need help, check the markdown link on the bottom)
 * When images are required, in every week folder exists an _"assets"_ folder, just create a numeric folder for the number of the class.
     * Dont forget the traling zero (eg: 01,02...)
-* Images should be named image00.png (can be jpg), and 00 changed by a sequencial number by the appearence order
+* Images should be named imageXX.png (can be jpg), and XX changed for a sequencial number by it appearence order
     
 
 ### Thanks
