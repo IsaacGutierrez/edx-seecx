@@ -38,3 +38,89 @@ We use the terms interchangeably
 
 * **Architectural Style = Architectural Pattern**: A pattern for a subsystem decomposition
 * **Software Architecture**: Instance of an architectural style (architectural pattern)
+
+## Elements of Software Architecture
+
+**Components** (Subsystems)
+
+* Computational units with specified interfaces
+* Examples: filters, databases, layers, objects
+
+**Connectors** (Communication)
+
+* Interaction between the components(subsystems)
+* Protocols that define how the components interact
+* Example: method calls, pipes, event broadcasts, shared data
+
+## Pattern-Oriented Architecture
+_("Gang of Five" Taxonomy)_
+
+![Image 02](./assets/03/image02.png)
+.
+.
+.
+![Image 03](./assets/03/image03.png)
+.
+.
+.
+![Image 04](./assets/03/image04.png)
+
+## Layer Pattern
+_(Example: 7 Layer of the OSI Model)_
+
+![Image 05](./assets/03/image05.png)
+
+## The Layers of the T.H.E. System
+
+"An operating system is an hierarchy of layers, each layer using services offered by the lower layers"
+
+ 
+Layers|
+---
+Layer 4: User Programs|
+Layer 3: I/O Device Manager|
+Layer 2: Communication Between OS and Console|
+Layer 1: Pager|
+Layer 0: Scheduler|
+
+### Closed (opaque) vs. Open (transparent) Architecture
+
+**Closed Architecture**
+
+* Each layer can only call operations from the layer below
+* Design Goals:
+    * Flexibility
+    * Testability
+    * Maintainability
+
+![Imagem 06](./assets/03/image06.png)
+
+**Open Architecture**
+
+* Each layer can call operations from any layer
+* Design Goals:
+    * Runtime efficiency
+    
+![Imagem 07](./assets/03/image07.png)
+
+### Pros and Cons of the Layer Patterns
+
+**Pros (Benefits)**
+
+* Reusability of Layers, especially in a closed architecture
+* Support fot standardization
+* Low coupling
+* Improves testability
+
+**Cons (Liabilities)**
+
+* A local change in a lower layer may require rework in higher layers
+* Lower efficiency
+
+## Model View Controller
+
+The MVC architectural style decouples data access and data presentation.
+
+
+
+
