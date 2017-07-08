@@ -11,9 +11,10 @@ If you wanna help, just clone this repo and start working on the Week video.
 ### Rules
 
 * Try to mimic the titles and text format (if need help, check the markdown link on the bottom)
-* When images are required, in every week folder exists an _"assets"_ folder, just create a numeric folder for the number of the class.
+* When images are required, in every week folder exists an _"assets"_ folder, just create a numeric folder for the number of the lesson
     * Dont forget the traling zero (eg: 01,02...)
 * Images should be named imageXX.png (can be jpg), and XX changed for a sequencial number by it appearence order
+* If the printscreen have slide number, TUM logo or teacher imagem, find a way to hide it.
     
 
 ### Thanks
