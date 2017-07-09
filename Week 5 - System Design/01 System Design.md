@@ -10,7 +10,7 @@
 
 ## Motivation - Why is design so difficult?
 
-* Analysis: focuses on the apllication domain
+* Analysis: focuses on the application domain
 * Design: focuses on the solution domain
     * The solution domain is changing very rapidly
     * Halftime knowledge in software engineering: 3-5 years __*"also called half-life of knowledge"*__
